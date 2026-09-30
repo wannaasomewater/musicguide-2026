@@ -1,0 +1,5 @@
+{"id": 1, "question": "Чем отличается джаз от блюза?", "gold_doc_ids": ["jazz_intro", "blues_intro"], "reference_answer": "Джаз импровизационен, блюз основан на 12-тактовой форме."}
+{"id": 2, "question": "Что такое дорийский лад?", "gold_doc_ids": ["modes_01"], "reference_answer": "Дорийский лад — минорный лад с повышенной VI ступенью."}
+{"id": 3, "question": "Кто основал группу Radiohead?", "gold_doc_ids": ["radiohead_bio"], "reference_answer": "Radiohead основана в 1985 году в Оксфорде."}
+{"id": 4, "question": "Какие жанры повлияли на появление рок-н-ролла?", "gold_doc_ids": ["rock_history"], "reference_answer": "Блюз, кантри, ритм-энд-блюз."}
+{"id": 5, "question": "Что такое тональность в музыке?", "gold_doc_ids": ["tonality_01"], "reference_answer": "Тональность — система высотных отношений с центром-тоникой."}
